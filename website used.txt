@@ -1,0 +1,2 @@
+gradient: https://angrytools.com//gradient/
+animation: https://animista.net/play/basic/scale-up
